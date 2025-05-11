@@ -1,110 +1,120 @@
 [
     {
-        "name": "Kliko's mod",
         "id": "klikos-mod",
+        "name": "Kliko's mod",
         "author": "TheKliko",
+        "description": "This mod changes the Roblox UI by giving it a red-pink gradient.\n\n- Gradient: #FF006E -> #990000 (45°)\n- Menu icons\n- Avatar editor\n- Skybox\n- Controller, VR and High-Res support",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/klikos-mod.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/klikos-mod.png"
     },
     {
-        "name": "24K Gradient Gold Theme",
         "id": "24k-gradient-gold-theme",
+        "name": "24K Gradient Gold Theme",
         "author": "thefrenchguy4",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/24k-gradient-gold-theme.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/24k-gradient-gold-theme.png"
     },
     {
-        "name": "Network's Red Theme",
         "id": "networks-red-theme",
+        "name": "Network's Red Theme",
         "author": "netsoftworks",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/networks-red-theme.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/networks-red-theme.png"
     },
     {
-        "name": "Blue Star Theme",
         "id": "blue-star-theme",
+        "name": "Blue Star Theme",
         "author": "thefrenchguy4",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/blue-star-theme.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/blue-star-theme.png"
     },
     {
-        "name": "Fishstrap Theme",
         "id": "fishstrap-theme",
+        "name": "Fishstrap Theme",
+        "description": "This mod changes the Roblox UI by giving it a Fishstrap-themed gradient.\n\n- Gradient: #0A293E -> #1B699C\n- Menu icons\n- Controller, VR and High-Res support",
         "author": "TheKliko",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/fishstrap-theme.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/fishstrap-theme.png"
     },
     {
-        "name": "L337",
         "id": "l337",
+        "name": "L337",
         "author": "dooM",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/l337.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/l337.png"
     },
     {
-        "name": "Content Deleted",
         "id": "content-deleted",
+        "name": "Content Deleted",
         "author": "dooM",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/content-deleted.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/content-deleted.png"
     },
     {
-        "name": "Translucency",
         "id": "translucency",
+        "name": "Translucency",
         "author": "dooM",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/translucency.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/translucency.png"
     },
     {
-        "name": "Bloxstrap theme",
         "id": "bloxstrap-theme",
+        "name": "Bloxstrap theme",
+        "description": "This mod changes the Roblox UI by giving it a Bloxstrap-themed gradient.\n\n- Gradient: #DB59AB -> #3D38C0\n- Menu icons\n- Controller, VR and High-Res support",
         "author": "TheKliko",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/bloxstrap-theme.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/bloxstrap-theme.png"
     },
     {
-        "name": "Bloxstrap theme (old)",
         "id": "bloxstrap-theme-old",
+        "name": "Bloxstrap theme (old)",
+        "description": "This mod changes the Roblox UI by giving it the old Bloxstrap gradient.\n\n- Gradient: #A011FE -> #5460F9\n- Menu icons\n- Controller and VR support",
         "author": "TheKliko",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/bloxstrap-theme-old.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/bloxstrap-theme-old.png"
     },
     {
-        "name": "Pink Sky",
         "id": "pink-sky",
+        "name": "Pink Sky",
         "author": "TheKliko",
+        "description": "Adds a pink skybox",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/pink-sky.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/pink-sky.png"
     },
     {
-        "name": "UBFF theme",
         "id": "ubff-theme",
+        "name": "UBFF theme",
+        "description": "Based on the Useful Bloxstrap FF's community server.\n\n- Gradient: #648BD9 -> #FA94D7\n- Menu icons\n- Controller and VR support",
         "author": "TheKliko",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/ubff-theme.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/ubff-theme.png"
     },
     {
-        "name": "Blue Emote Wheel",
         "id": "blue-emote-wheel",
+        "name": "Blue Emote Wheel",
+        "description": "Adds a blue emote wheel",
         "author": "TheKliko",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/blue-emote-wheel.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/blue-emote-wheel.png"
     },
     {
-        "name": "Old login screen (remake)",
         "id": "old-login-screen",
+        "name": "Old login screen (remake)",
+        "description": "A remake of the 2017 login screen",
         "author": "TheKliko",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/old-login-screen.zip",
         "thumbnail": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/thumbnails/old-login-screen.png"
     },
     {
-        "name": "Old death sound",
         "id": "old-death-sound",
+        "name": "Old death sound",
+        "description": "Brings back the classic 'OOF' death sound",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/old-death-sound.zip"
     },
     {
-        "name": "Wilhelm Scream (death sound)",
         "id": "wilhelm-scream-death-sound",
+        "name": "Wilhelm Scream (death sound)",
+        "description": "Adds the iconic 'Wilhelm Scream' death sound",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/wilhelm-scream-death-sound.zip"
     }
 ]
