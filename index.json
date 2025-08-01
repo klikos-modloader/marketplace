@@ -116,5 +116,11 @@
         "name": "Wilhelm Scream (death sound)",
         "description": "Adds the iconic 'Wilhelm Scream' death sound",
         "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/wilhelm-scream-death-sound.zip"
+    },
+    {
+        "id": "hitmarker-scream-death-sound",
+        "name": "Hitmarker (death sound)",
+        "description": "Replaces the default death sound with a hitmarker sound effect",
+        "download": "https://github.com/TheKliko/klikos-modloader/raw/refs/heads/marketplace-v2/mods/hitmarker-death-sound.zip"
     }
 ]
